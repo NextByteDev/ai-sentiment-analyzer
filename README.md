@@ -32,10 +32,4 @@ To run this project locally, follow these steps:
     ```
 
 ## 📄 Example
-Input:
-`"I love this app!"`
-
-## Output:
-- Sentiment: Positive
-
-- Confidence Score: 0.98
+![preview](preview.png)
